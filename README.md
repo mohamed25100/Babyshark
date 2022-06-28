@@ -7,4 +7,8 @@ $doo = "doo doo doo doo doo doo\n"; $a = "Baby shark, ";$aa = "$a$doo$a$doo$a$do
 <!--primum ! my solution !
 function babySharkLyrics(){$c="shark";$k="$c!\n";$h="Let's go hunt";return z("Baby ",$c).$k.z("Mommy ",$c).$k.z("Daddy ",$c).$k.z("Grandma ",$c).$k.z("Grandpa ",$c).$k.z($h,'')."!\nRun away,…";}function z($a,$b){$o=" doo doo";$c=",$o$o$o\n";return"$a$b$c$a$b$c$a$b$c$a";}
 -->
+## babyshark V1.1
+- babyshark Output...
+- button hide without display none but by redirect
+
 &copy;Mohamed BOUCHERBA;
